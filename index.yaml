@@ -1,3 +1,24 @@
 apiVersion: v1
-entries: {}
-generated: "2021-08-05T17:17:14.2441496Z"
+entries:
+  account-lookup-service:
+  - apiVersion: v1
+    appVersion: 8.3.0
+    created: "2021-08-09T14:21:10.1491959Z"
+    description: Account Lookup Service Helm Chart for Mojaloop
+    digest: e2f27e72552d6a349dd93426004064affc3595279b3962ed6bafc2b84116e65f
+    name: account-lookup-service
+    urls:
+    - https://2blockch1n.github.io/test-helm-chart/account-lookup-service-8.3.0.tgz
+    version: 8.3.0
+  mojaloop-simulator:
+  - apiVersion: v1
+    appVersion: 11.1.0
+    created: "2021-08-09T14:21:10.1511961Z"
+    description: 'Helm Chart for the Mojaloop (SDK based) Simulator - mojaloop-simulator:
+      v11.2.1; sdk-scheme-adapter: v11.8.0'
+    digest: fa6286472be43ebb8c3648dc311ea23592fe1991877a92e2e0792d46be8f96ea
+    name: mojaloop-simulator
+    urls:
+    - https://2blockch1n.github.io/test-helm-chart/mojaloop-simulator-11.1.0.tgz
+    version: 11.1.0
+generated: "2021-08-09T14:21:10.1471939Z"
