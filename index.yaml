@@ -3,22 +3,32 @@ entries:
   account-lookup-service:
   - apiVersion: v1
     appVersion: 8.3.0
-    created: "2021-08-09T14:21:10.1491959Z"
+    created: "2021-08-10T13:05:08.9220636Z"
     description: Account Lookup Service Helm Chart for Mojaloop
-    digest: e2f27e72552d6a349dd93426004064affc3595279b3962ed6bafc2b84116e65f
+    digest: 0e0ec8f505cc34b0c3e035ce23a2ac10d088bab2fb4c69f6de4c99299a8ab63c
     name: account-lookup-service
     urls:
-    - https://2blockch1n.github.io/test-helm-chart/account-lookup-service-8.3.0.tgz
+    - https://2BlockCh1n.github.io/test-helm-chart/account-lookup-service-8.3.0.tgz
     version: 8.3.0
   mojaloop-simulator:
   - apiVersion: v1
     appVersion: 11.1.0
-    created: "2021-08-09T14:21:10.1511961Z"
+    created: "2021-08-10T13:05:08.926078Z"
     description: 'Helm Chart for the Mojaloop (SDK based) Simulator - mojaloop-simulator:
       v11.2.1; sdk-scheme-adapter: v11.8.0'
-    digest: fa6286472be43ebb8c3648dc311ea23592fe1991877a92e2e0792d46be8f96ea
+    digest: f8ca400f92e30da1d361fa84f82b95151f0bef18f50a4a96d928405a71004a7b
     name: mojaloop-simulator
     urls:
-    - https://2blockch1n.github.io/test-helm-chart/mojaloop-simulator-11.1.0.tgz
+    - https://2BlockCh1n.github.io/test-helm-chart/mojaloop-simulator-11.1.0.tgz
     version: 11.1.0
-generated: "2021-08-09T14:21:10.1471939Z"
+  oracle-proxy:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-08-10T13:05:08.928061Z"
+    description: Oracle MSISDN proxy
+    digest: c6c571bc9b7267dbd6afa7969b6f071a2bc6771af2814cceb937651fe43c6d77
+    name: oracle-proxy
+    urls:
+    - https://2BlockCh1n.github.io/test-helm-chart/oracle-proxy-v12.1.1.tgz
+    version: v12.1.1
+generated: "2021-08-10T13:05:08.9065952Z"
