@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  kiwibackend:
+  - apiVersion: v2
+    appVersion: 'coteouest/kiwi-build: 0.0.1'
+    created: "2022-03-22T14:03:44.006287Z"
+    description: A Helm chart for Kubernetes
+    digest: 2c0b9dcf13cdf6fb0d3806755516734978327313c23da590d5d37be7cb28c58a
+    maintainers:
+    - email: julesboriskreme@gmail.com
+      name: jules boris kreme
+    name: kiwibackend
+    type: application
+    urls:
+    - https://2blockch1n.github.io/test-helm-chart/kiwibackend-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-03-22T14:03:44.004962Z"
